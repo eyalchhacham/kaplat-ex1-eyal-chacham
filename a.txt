@@ -1,2 +1,3 @@
 some work in a.txt
 new line in a.txt
+editing file a.txt
